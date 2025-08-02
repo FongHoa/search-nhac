@@ -28,7 +28,7 @@ input[type="text"] {
     margin-bottom: 15px;
     border: 1px solid #ddd;
     border-radius: 4px;
-    width: calc(100% - 22px); /* Adjust for padding and border */
+    width: calc(100% - 22px);
     font-size: 16px;
 }
 
@@ -54,7 +54,7 @@ button:hover {
     border-radius: 4px;
     background-color: #f9f9f9;
     text-align: left;
-    min-height: 50px; /* Give it some initial height */
+    min-height: 50px;
 }
 
 .highlight {
